@@ -1,0 +1,15 @@
+langchain
+langchain-community
+notebook
+langchain_azure_ai
+langgraph
+docling
+gradio
+pypdf
+joblib
+langchain_text_splitters
+weaviate-client
+weaviate-client
+chromadb
+rank_bm25
+jsonformer
